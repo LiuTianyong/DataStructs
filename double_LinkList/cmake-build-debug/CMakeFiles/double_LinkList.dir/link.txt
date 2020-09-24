@@ -1,0 +1,3 @@
+"D:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\double_LinkList.dir/objects.a
+D:\mingw64\bin\ar.exe cr CMakeFiles\double_LinkList.dir/objects.a @CMakeFiles\double_LinkList.dir\objects1.rsp
+D:\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\double_LinkList.dir/objects.a -Wl,--no-whole-archive  -o double_LinkList.exe -Wl,--out-implib,libdouble_LinkList.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\double_LinkList.dir\linklibs.rsp

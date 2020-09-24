@@ -1,0 +1,3 @@
+"D:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\squence_LinkList.dir/objects.a
+D:\mingw64\bin\ar.exe cr CMakeFiles\squence_LinkList.dir/objects.a @CMakeFiles\squence_LinkList.dir\objects1.rsp
+D:\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\squence_LinkList.dir/objects.a -Wl,--no-whole-archive  -o squence_LinkList.exe -Wl,--out-implib,libsquence_LinkList.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\squence_LinkList.dir\linklibs.rsp

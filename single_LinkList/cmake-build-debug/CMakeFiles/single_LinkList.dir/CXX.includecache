@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/DataStructs/single_LinkList/LinkList.cpp
+LinkList.hpp
+E:/DataStructs/single_LinkList/LinkList.hpp
+
+E:/DataStructs/single_LinkList/LinkList.hpp
+stdlib.h
+-
+stdio.h
+-
+
